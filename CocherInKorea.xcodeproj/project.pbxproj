@@ -16,6 +16,7 @@
 		D5A2FCD02A5B000C00178A1D /* CocherInKoreaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A2FCCF2A5B000C00178A1D /* CocherInKoreaTests.swift */; };
 		D5A2FCDA2A5B000C00178A1D /* CocherInKoreaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A2FCD92A5B000C00178A1D /* CocherInKoreaUITests.swift */; };
 		D5A2FCDC2A5B000C00178A1D /* CocherInKoreaUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A2FCDB2A5B000C00178A1D /* CocherInKoreaUITestsLaunchTests.swift */; };
+		D5A2FCE92A5B002D00178A1D /* FoodMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5A2FCE82A5B002D00178A1D /* FoodMenu.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D5A2FCD52A5B000C00178A1D /* CocherInKoreaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CocherInKoreaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5A2FCD92A5B000C00178A1D /* CocherInKoreaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocherInKoreaUITests.swift; sourceTree = "<group>"; };
 		D5A2FCDB2A5B000C00178A1D /* CocherInKoreaUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocherInKoreaUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D5A2FCE82A5B002D00178A1D /* FoodMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodMenu.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				D5A2FCC12A5B000C00178A1D /* Assets.xcassets */,
 				D5A2FCC32A5B000C00178A1D /* LaunchScreen.storyboard */,
 				D5A2FCC62A5B000C00178A1D /* Info.plist */,
+				D5A2FCE82A5B002D00178A1D /* FoodMenu.swift */,
 			);
 			path = CocherInKorea;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				D5A2FCBD2A5B000B00178A1D /* ViewController.swift in Sources */,
 				D5A2FCB92A5B000B00178A1D /* AppDelegate.swift in Sources */,
+				D5A2FCE92A5B002D00178A1D /* FoodMenu.swift in Sources */,
 				D5A2FCBB2A5B000B00178A1D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
