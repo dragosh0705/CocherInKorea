@@ -39,7 +39,7 @@ class ViewController: UIViewController {
         return button
     }()
     
-    private var searchBar : UISearchBar = { // searchBar 안보이는 문제부터 시작하기
+    private var searchBar : UISearchBar = { // searchBar 안보이는 문제부터 시작해야 함
         var search = UISearchBar()
         search.placeholder = "검색"
         search.translatesAutoresizingMaskIntoConstraints = false
